@@ -1,7 +1,6 @@
-# Hi there! 👋 I'm [Your Name]  
+# Ayush here! 
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **[your project]**  
+## About Me  
 - 🌱 I’m learning **Linux, Business, Finance, and Server Management**  
 - 💡 Exploring **Stock Market & Investments**  
 - 💬 Ask me about **Tech, Linux, Startups, or Philosophy**  
