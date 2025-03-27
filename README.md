@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack  
 - 💻 **Languages:** Python, JavaScript, C++ (Add more if needed)  
 - 🔧 **Tools & Technologies:** Linux, Git, Docker, Kubernetes  
-- 🌐 **Web Development:** React, Node.js, HTML, CSS  
+- 🌐 **Web Development:** React, Node.js, HTML, CSS 
 
 ## 🌟 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-url)  
