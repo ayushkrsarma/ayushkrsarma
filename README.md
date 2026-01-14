@@ -1,14 +1,18 @@
-# Ayush here! 
+# Welcome to my Github Profile! 
+## Ayush aka Iswaran Profile 
 
-## About Me  
-- 🌱 I’m learning **Linux, Business, Finance, and Server Management**  
-- 💡 Exploring **Stock Market & Investments**  
-- 💬 Ask me about **Tech, Linux, Startups, or Philosophy**  
-- 📫 Reach me at **[your email or social link]**  
+## Who is I'm  
+- I'm a guy with Linux, Arch and KDE supporter
+- Have some Robotics and Automotion
+- Learning Deep learning
+- On the journey of Cosmos, Part time Astronomist, Astrophysict and Cosmologist
+- Sometimes behaves like the Philospher
+- Past life Swordsman
+- Exploring **Stock Market & Investments**
 
 ## 🛠 Tech Stack  
-- 💻 **Languages:** Python, JavaScript, C++ (Add more if needed)  
-- 🔧 **Tools & Technologies:** Linux, Git, Docker, Kubernetes  
+- 💻 **Languages:** Java, Python, C++ (Add more if needed)  
+- 🔧 **Tools & Technologies:** Linux, Git, Docker, Kubernetes
 - 🌐 **Web Development:** React, Node.js, HTML, CSS 
 
 ## 🌟 Connect With Me  
